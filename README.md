@@ -8,8 +8,8 @@ Para usar basicamente abra o *write.exe*, escreva a mensagem e aparte enter, a m
 **read** tem como idéia ler a mensagem criptografada no arquivo *write.txt*.  
 Para usar ele bote o arquivo *write.txt* na pasta do *read.exe* e depois execute o *read.exe*.  
 
-Código do **write**: https://github.com/thiagola92/Simples-Criptografia/blob/master/write/write/main.cpp  
-Código do **read**: https://github.com/thiagola92/Simples-Criptografia/blob/master/read/read/main.cpp  
+**Código do write**: https://github.com/thiagola92/Simples-Criptografia/blob/master/write/write/main.cpp  
+**Código do read**: https://github.com/thiagola92/Simples-Criptografia/blob/master/read/read/main.cpp  
 Qualquer outro arquivo dentro das pastas read/write foram criadas pelo próprio Visual Studio.  
 
 **Video mostrando como ambos funcionam:** https://www.youtube.com/watch?v=mblap1OHtRg
