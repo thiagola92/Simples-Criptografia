@@ -14,4 +14,7 @@ Para usar ele bote o arquivo *write.txt* na pasta do *read.exe* e depois execute
 Vamos supor que o texto que você quer criptografar seja apenas a letra a, em binário é 0110 0001.  
 O que eu fiz foi dividir o byte da letra a em dois, **0110** e **0001**.  
 Usarei cada uma dessas partes para criar letras novas, **xxxx 0110** e **xxxx 0001**, sendo que **xxxx** é uma sequência de 1 e 0 aleatória.  
-![Exemplo](example.png)
+
+![Exemplo](example.png)  
+
+Logo o programa teria criptografado, a mensagem "a" para "&A".  
