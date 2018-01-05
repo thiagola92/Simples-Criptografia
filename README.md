@@ -7,3 +7,11 @@ Para usar basicamente abra o *write.exe*, escreva a mensagem e aparte enter, a m
 
 **read** tem como idéia ler a mensagem criptografada no arquivo *write.txt*.  
 Para usar ele bote o arquivo *write.txt* na pasta do *read.exe* e depois execute o *read.exe*.  
+
+**Video mostrando como ambos funcionam:** https://www.youtube.com/watch?v=mblap1OHtRg
+
+# How it works
+Vamos supor que o texto que você quer criptografar seja apenas a letra a, em binário é 0110 0001.  
+O que eu fiz foi dividir o byte da letra a em dois, **0110** e **0001**.  
+Usarei cada uma dessas partes para criar letras novas, **xxxx 0110** e **xxxx 0001**, sendo que **xxxx** é uma sequência de 1 e 0 aleatória.  
+![Exemplo](example.png)
