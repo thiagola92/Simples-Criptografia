@@ -1,3 +1,5 @@
+**Youtube:** https://www.youtube.com/watch?v=mblap1OHtRg
+
 # About
 
 Nesse repositório tem dois projetos **write** e **read**.  
@@ -11,8 +13,6 @@ Para usar ele bote o arquivo *write.txt* na pasta do *read.exe* e depois execute
 **Código do write**: https://github.com/thiagola92/Simples-Criptografia/blob/master/write/write/main.cpp  
 **Código do read**: https://github.com/thiagola92/Simples-Criptografia/blob/master/read/read/main.cpp  
 Qualquer outro arquivo dentro das pastas read/write foram criadas pelo próprio Visual Studio.  
-
-**Video mostrando como ambos funcionam:** https://www.youtube.com/watch?v=mblap1OHtRg
 
 # How it works
 Vamos supor que o texto que você quer criptografar seja apenas a letra a, em binário é 0110 0001.  
