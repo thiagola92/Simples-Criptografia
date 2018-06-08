@@ -1,7 +1,6 @@
 **Youtube:** https://www.youtube.com/watch?v=mblap1OHtRg
 
 # About
-
 Nesse repositório tem dois projetos **write** e **read**.  
 
 **write** tem como idéia receber uma mensagem e criptografar ela para ninguém descobrir a mensagem que tinha nela.  
